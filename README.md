@@ -4,7 +4,7 @@
  
 # Functions
 
-This app can query the latest currency exchange rate information online, and calculate the amount of symbol currency according to the amount of base currency entered.
+This app can query the latest currency exchange rate information online, and calculate the amount of symbol currency according to the amount of base currency entered.The input control is an Entry, the keyboard is set as a numeric keyboard, which can prevent wrong input. When the text input by the Entry changes, the Command bound to the Textchanged Event will be triggered, and the output will be updated in real time
 
 # Online mode ad offline mode
 
