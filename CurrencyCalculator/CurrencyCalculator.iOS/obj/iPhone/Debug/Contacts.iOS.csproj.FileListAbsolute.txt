@@ -1,0 +1,13 @@
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\optimized\
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\Contacts.iOS.csproj.AssemblyReference.cache
+F:\Contacts\Contacts\Contacts.iOS\obj\iPhone\Debug\Contacts.iOS.csproj.CoreCompileInputs.cache
